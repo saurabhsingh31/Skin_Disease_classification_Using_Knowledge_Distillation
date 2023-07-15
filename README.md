@@ -1,0 +1,2 @@
+# Skin_Disease_classification_Using_Knowledge_Distillation
+Skin cancer classification as malignant or benign using knowledge distillation
