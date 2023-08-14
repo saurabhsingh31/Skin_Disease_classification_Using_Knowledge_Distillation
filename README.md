@@ -1,5 +1,5 @@
 
-# A FRAMEWORK FOR SKIN DISEASE DETECTION USING KNOWLEDGE DISTILAATION
+# A FRAMEWORK FOR SKIN DISEASE DETECTION USING KNOWLEDGE DISTILLATION
 
 
 Skin disease classification using deep learning has gained significant importance in the field of healthcare and dermatology. Deep learning techniques, particularly convolutional neural networks (CNNs), have demonstrated impressive results in accurately identifying and classifying various skin diseases based on images of the skin. Here's why this is important:
